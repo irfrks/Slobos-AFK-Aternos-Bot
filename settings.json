@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dar-wlad-nas.aternos.me",
-    "port": 39989,
+    "ip": "",
+    "port": ,
     "version": "",
     "try-creative": false
   },
